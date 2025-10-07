@@ -21,6 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="График функции.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Калькулятор.py" />
     <Compile Include="перевернутая строка.py">
       <SubType>Code</SubType>
