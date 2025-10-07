@@ -58,5 +58,5 @@ def calculator():
         except Exception as e:
             print(f"Error: {e}")
 
-if __name__ == "__main__":
-    calculator()
+
+calculator()
