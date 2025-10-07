@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>decd7d46-0331-443e-9f9b-d2bf6b72071a</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>МИТП_лр2.py</StartupFile>
+    <StartupFile>Сумма чисел до N.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   <ItemGroup>
     <Compile Include="Калькулятор.py" />
     <Compile Include="перевернутая строка.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Сумма чисел до N.py">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
